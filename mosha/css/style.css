@@ -127,16 +127,17 @@ h2 {
 }
 
 #about-hidari {
-  width: 100%;
+  width: 60%;
 }
 
 #about-hidari > img {
   width: 100%;
-  height: 100%;
+  height: 65%;
   object-fit: cover;
 }
 
 #about-migi {
+  width: 40%;
   margin: 12% 5% 0 5%;
 }
 
@@ -286,7 +287,12 @@ footer {
     display: block;
   }
 
+  #about-hidari {
+    width: 100%;
+  }
+
   #about-migi {
+    width: 100%;
     margin: 0 3%;
   }
 
